@@ -1,4 +1,6 @@
-"""A program which keeps track of details for a taxi."""
+"""Taxi Driver
+A program which keeps track of details for a taxi,
+using definitive functions and 'while' loops."""
 
 # Initialize variables
 driver_name = input("Please enter the driver's name: ")
